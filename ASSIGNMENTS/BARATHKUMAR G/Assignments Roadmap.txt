@@ -1,0 +1,10 @@
+Contents
+Problem Statement
+Current Workflow
+Proposed Solution
+Data collection
+Exploratory Data Analysis
+Data preprocessing
+Model Building
+Improving Algorithm
+Deploying Application
