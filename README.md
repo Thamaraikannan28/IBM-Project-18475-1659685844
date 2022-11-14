@@ -4,4 +4,5 @@ Data collection and in depth study about the loan approval startegies
 Loan predicction using python flask
 
 ## Project Roadmap
+1. Data science study 
 
