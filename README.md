@@ -7,4 +7,5 @@ Loan predicction using python flask
 1. Data science study 
 2. Data preprocessing Techniques
 3. Numpy (Numerical python packages).
+4. Exploratory Data Analysis
 
