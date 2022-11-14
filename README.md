@@ -13,4 +13,4 @@ Loan predicction using python flask
 7. Improving Algorithm
 8. Deploying Application.
 
-COMPONENTS
+# COMPONENTS
