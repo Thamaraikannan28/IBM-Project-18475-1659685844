@@ -6,4 +6,5 @@ Loan predicction using python flask
 ## Project Roadmap
 1. Data science study 
 2. Data preprocessing Techniques
+3. Numpy (Numerical python packages)
 
