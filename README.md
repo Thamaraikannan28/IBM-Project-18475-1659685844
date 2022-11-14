@@ -10,3 +10,4 @@ Loan predicction using python flask
 4. Exploratory Data Analysis
 5. Data preprocessing
 6. Model Building
+7. Improving Algorithm
