@@ -9,4 +9,4 @@ Loan predicction using python flask
 3. Numpy (Numerical python packages).
 4. Exploratory Data Analysis
 5. Data preprocessing
-
+6. Model Building
